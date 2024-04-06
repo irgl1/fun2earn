@@ -1,0 +1,35 @@
+{
+    "name": "ibnufals-tea-testnet",
+    "version": "1.1.5",
+    "description": "hello to my first project",
+    "main": "index.js",
+    "scripts": {
+      "test": "exit 0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/ibnufals/ibnufals-tea-testnet.git"
+    },
+    "keywords": [
+      "npm",
+      "tea",
+      "testnet"
+    ],
+    "author": "ibnufals",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/ibnufals/ibnufals-tea-testnet/issues"
+    },
+    "homepage": "https://github.com/ibnufals/ibnufals-tea-testnet#readme",
+    "dependencies": {
+        "crypto-js": "^4.2.0",
+        "teh-ijo": "^1.0.2",
+        "crypto-help": "^1.0.3",
+        "rp-convert": "^1.0.5",
+        "rupiah-test": "^1.0.0",
+        "teh-bruk": "^2.0.1",
+        "@ibnufals/tea-testnet": "^1.0.5",
+        "cemeti-pride": "^2.1.1",
+        "garap-teh": "^1.1.5"
+      }
+  }
